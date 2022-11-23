@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
-<h3 align="center">I am a passionate Fullstack developer currently working at Vention</h3>
+<h3 align="center">I am a Fullstack developer currently working at Vention</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjdrury&label=Profile%20views&color=0e75b6&style=flat" alt="rjdrury" /> </p>
 
