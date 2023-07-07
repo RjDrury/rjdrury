@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjdrury&label=Profile%20views&color=0e75b6&style=flat" alt="rjdrury" /> </p>
 
-- 👨‍💻 Check out my site at [http://rdrury.ca](http://rdrury.ca)
-
 - 📫 Reach out to me at **rdrury1513@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
